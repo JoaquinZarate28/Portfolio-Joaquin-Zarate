@@ -1,6 +1,6 @@
 # Portfolio-Joaquin-Zarate
 
-Portfolio personal — Web, automatización (bots) y operaciones e-commerce (Tango/Tango Tiendas).  
+Portfolio personal — Web, automatización (bots) y operaciones e-commerce (Tango / Tienda Nube).
 Bilingüe EN/ES.
 
 ## Proyectos
@@ -8,23 +8,27 @@ Bilingüe EN/ES.
 ### AudioSecrets — E-commerce de audio / estéreo para autos (Producción)
 🔗 Sitio: https://www.audiosecrets.com.ar/
 
-**Qué hice yo**
+**Responsabilidades**
 - Implementé y dejé operativo el ecosistema e-commerce + backoffice.
-- Integré el flujo de **facturación** usando **Tango Software** + servidor.
+- Integré el flujo de facturación usando Tango Software + servidor.
 - Vinculé sucursales y dejé el circuito funcionando end-to-end (ventas → operación → facturación).
 - Configuración, puesta en marcha y soporte operativo post-implementación.
 
 **Stack / herramientas**
 - Tango Software, integración con servidor, operaciones e-commerce.
 
-### E-commerce de ropa (Proyecto propio) — En desarrollo
-📌 Estado: en progreso (aún no publicado)
+---
 
-**Qué hay**
-- Estructura y avances disponibles a pedido.
-- Próximo: publicación del sitio + demo pública.
+### Delirixon — E-commerce de ropa (Demo privada / en preparación)
+🔗 Demo: https://delirixon.mitiendanube.com/
 
+**Estado**
+- Demo funcional (estructura completa), pendiente de publicación por definiciones del cliente/proyecto.
 
-## Contacto
-- Email: joaquinzaratedev@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/joaquin-zarate/
+**Funcionalidades implementadas**
+- Navegación y estructura del sitio (Inicio / Productos / Contacto / Guía de talles).
+- Configuración de envíos y cálculo de costo de envío.
+- Páginas y secciones listas para carga de catálogo y salida pública.
+
+**Próximo**
+- Carga final de productos/contenido + ajustes finales → publicación.
