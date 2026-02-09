@@ -5,14 +5,25 @@ Bilingüe EN/ES.
 
 ## Proyectos
 
-- **AudioSecrets (E-commerce estéreo para autos)** — Implementación web + integración de operaciones e-commerce.  
-  - Configuración e integración de **Tango Software** con un **servidor** para el circuito de **facturación**.  
-  - Unificación y enlace de **sucursales** dentro del mismo flujo operativo (datos/ventas/facturación).  
-  - Puesta en marcha del sistema: **facturación operativa** y ecosistema funcionando end-to-end.  
-  🔗 Sitio: https://www.audiosecrets.com.ar/
+### AudioSecrets — E-commerce de audio / estéreo para autos (Producción)
+🔗 Sitio: https://www.audiosecrets.com.ar/
 
+**Qué hice yo**
+- Implementé y dejé operativo el ecosistema e-commerce + backoffice.
+- Integré el flujo de **facturación** usando **Tango Software** + servidor.
+- Vinculé sucursales y dejé el circuito funcionando end-to-end (ventas → operación → facturación).
+- Configuración, puesta en marcha y soporte operativo post-implementación.
 
-- **E-commerce de ropa (proyecto propio)** — En desarrollo / privado. (Demo a pedido)
+**Stack / herramientas**
+- Tango Software, integración con servidor, operaciones e-commerce.
+
+### E-commerce de ropa (Proyecto propio) — En desarrollo
+📌 Estado: en progreso (aún no publicado)
+
+**Qué hay**
+- Estructura y avances disponibles a pedido.
+- Próximo: publicación del sitio + demo pública.
+
 
 ## Contacto
 - Email: joaquinzaratedev@gmail.com  
