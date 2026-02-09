@@ -5,10 +5,10 @@ Bilingüe EN/ES.
 
 ## Proyectos
 
-- **AudioSecrets (E-commerce estéreo para autos)** — Implementación web + automatización de operaciones e-commerce.  
-  - Integré **Tango Software** con un **servidor** para el **sistema de facturación**.  
-  - Vinculé **todas las sucursales** al mismo circuito (datos/ventas/facturación).  
-  - Dejé operativas las **facturaciones** y el flujo completo del ecosistema.  
+- **AudioSecrets (E-commerce estéreo para autos)** — Implementación web + integración de operaciones e-commerce.  
+  - Configuración e integración de **Tango Software** con un **servidor** para el circuito de **facturación**.  
+  - Unificación y enlace de **sucursales** dentro del mismo flujo operativo (datos/ventas/facturación).  
+  - Puesta en marcha del sistema: **facturación operativa** y ecosistema funcionando end-to-end.  
   🔗 Sitio: https://www.audiosecrets.com.ar/
 
 
