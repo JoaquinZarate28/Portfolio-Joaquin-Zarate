@@ -20,7 +20,7 @@ Bilingüe EN/ES.
 ---
 
 ### Delirixon — E-commerce de ropa (Demo privada / en preparación)
-🔗 Demo: https://delirixon.mitiendanube.com/
+🔒 Demo privada (pre-launch): disponible a pedido.
 
 **Estado**
 - Demo funcional (estructura completa), pendiente de publicación por definiciones del cliente/proyecto.
